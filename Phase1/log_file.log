@@ -1,0 +1,268 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=GOOGL&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get GOOGL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=TSLA&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get TSLA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=GOOGL&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get GOOGL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=TSLA&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get TSLA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=INSM&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get INSM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=LAKE&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get LAKE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=AMZN&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get AMZN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=FB&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get FB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=BABA&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get BABA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=AAPL&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get AAPL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=GM&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get GM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=LLY&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get LLY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=GOOGL&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time GOOGL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=TSLA&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time TSLA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=INSM&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time INSM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=LAKE&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time LAKE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=AMZN&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time AMZN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=FB&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time FB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=BABA&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time BABA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=AAPL&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time AAPL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=GM&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time GM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=LLY&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time LLY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=GOOGL&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get GOOGL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=TSLA&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get TSLA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=INSM&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get INSM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=GOOGL&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get GOOGL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=TSLA&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get TSLA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=GOOGL&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get GOOGL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=GOOGL&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get GOOGL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=TSLA&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get TSLA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=INSM&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get INSM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=LAKE&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get LAKE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=AMZN&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get AMZN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=FB&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get FB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=BABA&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get BABA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=AAPL&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get AAPL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=GM&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get GM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=LLY&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get LLY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=GOOGL&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time GOOGL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=TSLA&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time TSLA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=INSM&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time INSM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=LAKE&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time LAKE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=AMZN&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time AMZN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=FB&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time FB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=BABA&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time BABA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=AAPL&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time AAPL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=GM&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time GM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=LLY&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time LLY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=GOOGL&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get GOOGL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=TSLA&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get TSLA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=INSM&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get INSM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=LAKE&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get LAKE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=AMZN&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get AMZN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=FB&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get FB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=BABA&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get BABA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=AAPL&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get AAPL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=GM&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get GM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=LLY&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get LLY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=GOOGL&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time GOOGL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=TSLA&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time TSLA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=INSM&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time INSM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=LAKE&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time LAKE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=AMZN&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time AMZN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=FB&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time FB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=BABA&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time BABA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=AAPL&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time AAPL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=GM&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time GM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=LLY&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time LLY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=GOOGL&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get GOOGL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=TSLA&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get TSLA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=INSM&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get INSM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=LAKE&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get LAKE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=AMZN&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get AMZN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=FB&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get FB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=BABA&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get BABA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=AAPL&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get AAPL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=GM&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get GM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=LLY&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get LLY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=GOOGL&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time GOOGL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=TSLA&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time TSLA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=INSM&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time INSM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=LAKE&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time LAKE
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=AMZN&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time AMZN
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=FB&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time FB
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=BABA&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time BABA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=AAPL&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time AAPL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=GM&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time GM
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_INTRADAY&symbol=LLY&interval=1min&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get real time LLY
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.alphavantage.co:443
+DEBUG:urllib3.connectionpool:https://www.alphavantage.co:443 "GET /query?function=TIME_SERIES_DAILY&symbol=GOOGL&outputsize=full&apikey=FPJESXUBYN5ZQIDX&datatype=json HTTP/1.1" 200 None
+INFO:root:successfully get GOOGL
