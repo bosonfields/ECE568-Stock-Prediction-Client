@@ -1,6 +1,6 @@
-package com.example.StockPrediction.stockDaoImpl;
+package com.example.StockPrediction.DaoImpl;
 
-import com.example.StockPrediction.stockDao.BaseDao;
+import com.example.StockPrediction.Dao.BaseDao;
 import java.sql.*;
 
 public class BaseDaoImpl implements BaseDao {

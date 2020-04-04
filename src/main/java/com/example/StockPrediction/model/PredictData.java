@@ -1,4 +1,4 @@
-package com.example.StockPrediction.pkg;
+package com.example.StockPrediction.model;
 
 public class PredictData {
     private String symbol;

@@ -1,4 +1,4 @@
-package com.example.StockPrediction.stockDao;
+package com.example.StockPrediction.Dao;
 import java.sql.Connection;
 import java.sql.SQLException;
 

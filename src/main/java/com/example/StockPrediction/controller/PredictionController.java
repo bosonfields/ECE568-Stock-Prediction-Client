@@ -18,8 +18,8 @@ public class PredictionController {
     private PredictionService predictionService;
 
     @RequestMapping(value = "/getPrediction", method = RequestMethod.GET)
-    public String predict(@RequestParam Map<String, Object> params) {
-        long date = Long.parseLong(params.get("date").toString());
-        return predictionService.predict(params.get("stockName").toString(), date);
+    public String predict(@RequestParam Map<String, Object> params) throws Exception {
+//        long date = Long.parseLong();
+        return predictionService.predict(params.get("stockName").toString(), params.get("date").toString());
     }
 }
